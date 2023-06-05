@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Valentin BASCOP</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 🌱 I’m currently learning **ReactJS, NodeJS, Symfony, Laravel**
+- 🌱 I’m currently learning **ReactJS, Symfony and Laravel**
 
 - 👨‍💻 All of my projects are available at [valentinbascop.fr](valentinbascop.fr)
 
